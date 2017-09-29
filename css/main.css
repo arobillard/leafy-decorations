@@ -26,8 +26,8 @@ html {
 }
 
 .nav a:hover {
- background: url("../images/leaf-icon.svg") .75em center / 64px auto no-repeat #fff;
- color: #145b1d;
+  background: url("../images/leaf-icon.svg") .75em center / 64px auto no-repeat #fff;
+  color: #145b1d;
 }
 
 .banner {
